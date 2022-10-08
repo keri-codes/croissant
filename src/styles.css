@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #640009;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  display: block;
+  list-style-type: none;
+}
